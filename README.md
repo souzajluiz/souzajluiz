@@ -9,5 +9,5 @@ Sênior React Developer @Sanchez-Propaganda.
 Eu sou o Junior, um Limeirense apaixonado por programação WEB. Sou formado em Ciência da Computação, trabalho com desenvolvimento a +10 anos e de lá pra cá meu know-how só vem se expandindo, podendo proporcionar aos meus clientes soluções incríveis.
 
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://raw.githubusercontent.com/souzajluiz/souzajluiz/blob/master/devcard.svg" width="400" alt="Junior Souza's Dev Card"/></a>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://raw.githubusercontent.com/souzajluiz/souzajluiz/main/devcard.svg" width="400" alt="Junior Souza's Dev Card"/></a>
 
