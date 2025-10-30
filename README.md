@@ -4,7 +4,9 @@
 
 # Hi i am  Junior Souza 👋
 
-I'm Junior, a Limeirense passionate about WEB programming. I have a degree in Computer Science, I've been working with development for +10 years and since then my know-how has only been expanding, being able to provide my clients with incredible solutions.
+I'm a Brazilian developer passionate about web programming. I hold a degree in Computer Science and have been working in software development for 10+ years. Throughout this journey, I've continuously expanded my know-how, allowing me to deliver efficient, scalable, and high-quality solutions for my clients and projects.
+
+I love building things that make an impact — always learning, improving, and exploring new technologies.
 
 ----
 ## Profile
