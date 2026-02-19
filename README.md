@@ -4,9 +4,10 @@
 
 # Hi i am  Junior Souza 👋
 
-I'm a Brazilian developer passionate about web programming. I hold a degree in Computer Science and have been working in software development for 10+ years. Throughout this journey, I've continuously expanded my know-how, allowing me to deliver efficient, scalable, and high-quality solutions for my clients and projects.
+I’m a Brazilian software developer passionate about web technologies and building meaningful digital solutions. I hold a degree in Computer Science and bring over 10 years of hands-on experience in software development.
+Throughout my career, I’ve continuously refined my technical expertise and problem-solving skills, enabling me to deliver efficient, scalable, and high-quality solutions across diverse projects and industries. I’m driven by clean architecture, performance, and long-term maintainability.
 
-I love building things that make an impact — always learning, improving, and exploring new technologies.
+I love creating products that make a real impact — constantly learning, evolving, and exploring new technologies to stay ahead in an ever-changing tech landscape.
 
 ----
 ## Profile
